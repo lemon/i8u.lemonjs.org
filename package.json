@@ -1,0 +1,13 @@
+{
+  "name": "icu.lemonjs.org",
+  "description": "website for icons8 (ultraviolet) lemon library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lemon/i8u.lemonjs.org"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lemonjs-i8u": "^1.1.1",
+    "lemonjs-lui": "file:../../lemonjs-lui"
+  }
+}

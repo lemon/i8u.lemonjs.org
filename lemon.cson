@@ -1,0 +1,13 @@
+{
+  name: 'i8u.lemonjs.org'
+  deploy: {
+    service: 'github'
+  }
+  prod: {
+    hostname: 'i8u.lemonjs.org'
+  }
+  packages: [
+    'lemonjs-i8u'
+    'lemonjs-lui'
+  ]
+}
